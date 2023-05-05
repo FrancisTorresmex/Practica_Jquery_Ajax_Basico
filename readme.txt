@@ -1,4 +1,4 @@
-Listado de cursos
+Listado de cursos (Uso personal)
 
 1- Selectores:
     
