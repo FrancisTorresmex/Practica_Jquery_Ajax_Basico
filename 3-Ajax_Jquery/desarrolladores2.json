@@ -1,0 +1,37 @@
+{
+
+    "empleados": [
+        {
+            "Nombre": "Dev1",
+            "Puesto": "Programador",
+            "Edad": "23"
+        },
+        {
+            "Nombre": "Dev2",
+            "Puesto": "PM",
+            "Edad": "24"
+        },
+        {
+            "Nombre": "Dev1",
+            "Puesto": "Tester",
+            "Edad": "28"
+        }
+    ],
+    "empleadosTemporales": [
+        {
+            "Nombre": "DevT1",
+            "Puesto": "Programador",
+            "Edad": "56"
+        },
+        {
+            "Nombre": "DevT2",
+            "Puesto": "PM",
+            "Edad": "23"
+        },
+        {
+            "Nombre": "DevT1",
+            "Puesto": "Tester",
+            "Edad": "48"
+        }
+    ]
+}

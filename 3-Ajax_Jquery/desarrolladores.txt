@@ -1,0 +1,17 @@
+[
+    {
+        "Nombre": "Dev1",
+        "Puesto": "Programador",
+        "Edad": "23"
+    },
+    {
+        "Nombre": "Dev2",
+        "Puesto": "PM",
+        "Edad": "24"
+    },
+    {
+        "Nombre": "Dev1",
+        "Puesto": "Tester",
+        "Edad": "28"
+    }
+]
